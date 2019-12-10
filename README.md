@@ -1,0 +1,1 @@
+Projeto de site estático desenvolvido no curso de Análise e Desenvolvimento de sistemas, na disciplina Tópicos de Tecnologia da Informação como trabalho complementar.
